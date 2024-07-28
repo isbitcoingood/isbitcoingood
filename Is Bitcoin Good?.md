@@ -1,5 +1,3 @@
-#blog #is-bitcoin-good #blogpost #notes #digest #project 
-
 # Is Bitcoin Good?
 If you trust people who think bitcoin is going to be the new type of money they tend to sell bitcoin as a really useful amazing new technology that will bring prosperity and freedom. When I've looked into these claims I've found that they at least on the surface seem to make a decent amount of sense. However there are still big question marks for me. It does not seem far fetched to me that bitcoin may be really bad if some of the core assumptions that bitcoiners make are incorrect, as an example it's a currency with a hard limit on how many tokens there are: exactly 21 million bitcoin will ever exist.
 
